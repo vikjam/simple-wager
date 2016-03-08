@@ -17,6 +17,7 @@ a:hover {
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: .05rem solid #fff;
+  font-size: 24px;
 }
 
 
@@ -109,6 +110,7 @@ body {
 
 .cover {
   padding: 0 1.5rem;
+  font-size: 32px;
 }
 .cover .btn-lg {
   padding: .75rem 1.25rem;
@@ -166,6 +168,7 @@ input[type=text] {
     background: transparent;
     border: none;
     padding: 2px 2px 2px 2px;
+    text-align: center;
     border-bottom: 2px solid #FFFFFF;
 }
 
